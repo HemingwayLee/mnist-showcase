@@ -1,0 +1,22 @@
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### Jupyter ###
+.ipynb_checkpoints
+
+
+*.log
+*.pyc
+/venv
+
+### IDE ###
+/.vscode
+
+### Environment ###
+.env
+
+### Windows ###
+Thumbs.db
+ehthumbs.db
